@@ -38,12 +38,17 @@ These are the features of my JOB APPLICATION PORTAL:-
     ->Log Out bar to leave the portal
 
 How to run?
+
 (Open 2 terminals one for backend and another for frontend)
+
 1)Go to backend folder and write 
-        npm install
-        npm run
+
+        -> npm install
+        
+        -> npm run
 
 2)Go to frontend folder and write
-        npm install
+
+        -> npm install
         
-        npm run
+        -> npm run
