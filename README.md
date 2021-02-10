@@ -45,4 +45,5 @@ How to run?
 
 2)Go to frontend folder and write
         npm install
+        
         npm run
